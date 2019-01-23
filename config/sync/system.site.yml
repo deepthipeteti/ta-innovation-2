@@ -1,0 +1,14 @@
+uuid: c750320e-fe22-464e-94d7-fb1fabdae586
+name: 'innovation 2'
+mail: admin@localhost.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
