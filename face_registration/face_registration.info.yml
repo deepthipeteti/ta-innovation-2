@@ -1,0 +1,8 @@
+name: 'face_registration'
+type: module
+description: 'Register using faces'
+core: 8.x
+package: 'Custom'
+libraries:
+  - face_registration/webcamjs
+  - face_registration/face_registration

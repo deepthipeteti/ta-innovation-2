@@ -1,0 +1,8 @@
+face_registration.face_register:
+  path: '/face/registration'
+  defaults:
+    _form: '\Drupal\face_registration\Form\FaceRegistrationForm'
+    _title: 'Face Register'
+  requirements:
+    _access: 'TRUE'
+

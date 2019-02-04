@@ -1,0 +1,11 @@
+webcamjs:
+  version: 1.x
+  js:
+    js/webcam.min.js: {}
+face_registration:
+  version: 1.x
+  js:
+    js/face_registration.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
